@@ -24,9 +24,9 @@ My final dashboard is in [Absenteeism_Dashboard.pbix](Absenteeism_Dashboard.pbix
 ## Data used
 
 The following files were used as sources :
-- ![Absenteeism_at_work.csv](Absenteeism_at_work.csv): Employee absence data.
-- ![compensation.csv](compensation.csv): Information on employee salaries and benefits.
-- ![Reasons.csv](Reasons.csv): List of possible reasons for absences.
+- [Absenteeism_at_work.csv](Absenteeism_at_work.csv): Employee absence data.
+- [compensation.csv](compensation.csv): Information on employee salaries and benefits.
+- [Reasons.csv](Reasons.csv): List of possible reasons for absences.
 
 # 1. Healthy employees with low absenteeism for a bonus programm
 
