@@ -11,7 +11,7 @@ This project was carried out to analyse data relating to absenteeism and employe
  - Design an interactive dashboard to help HR understand absenteeism trends.
 
 ## Dashboard File
-My final dashboard is in ![Absenteeism_Dashboard.pbix](Absenteeism_Dashboard.pbix).
+My final dashboard is in [Absenteeism_Dashboard.pbix](Absenteeism_Dashboard.pbix).
 
 ## Tools I Used
 
